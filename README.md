@@ -1,16 +1,4 @@
-# fluidbottomnavbar
+# Fluid Bottom Nav Bar
 
-A new Flutter project.
+![image](https://github.com/GabrielMouraKT/FluidBottomNavBar/assets/69040085/638e28c1-a803-4ba1-9858-17de9c060d73)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
